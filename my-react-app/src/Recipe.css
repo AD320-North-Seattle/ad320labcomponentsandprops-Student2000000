@@ -1,0 +1,26 @@
+.recipe {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: lavender;
+    border-radius: 5px;
+    padding: 10px; 
+    margin-bottom: 5px;
+}
+
+.nameForm {
+    color: rgb(84, 64, 124);
+}
+    
+.listForm {
+    color: rgb(146, 111, 216);
+    text-align: left;
+}
+
+.recipe h3 {
+    color: rgb(146, 111, 216);
+    
+}
+
+.instForm {
+    text-align: center;
+    color: rgb(168, 144, 215);
+}
